@@ -1,13 +1,12 @@
-Roland Camille GBODJEMEDE
-Technicien Supérieur en Électrotechnique | Systèmes Embarqués & Automatisation
+Roland Camille GBODJEMEDE : Technicien Supérieur en Électrotechnique 
 
-🚀 À Propos de Moi
+  À Propos de Moi
 
 Je suis un technicien passionné par l'innovation technique et la résolution de problèmes concrets, fraîchement diplômé d'une Licence en Électrotechnique de l'ENSET de Lokossa. Mon parcours allie une solide formation théorique à une expérience terrain significative acquise en milieu industriel (SIAB - Société Industrielle d'Acier du Bénin).
 Je maîtrise la conception électronique, la programmation sur microcontrôleur (Arduino), la maintenance industrielle et j'ai un sens pratique aiguisé. Mon objectif est de contribuer à des projets innovants dans les domaines de l'électrotechnique, de l'automatisme et des systèmes embarqués.
 
-🏆 Projet Phare : Système de Sécurité Autonome Biométrique
-🔐 Contexte & Objectif
+  Projet Phare : Système de Sécurité Autonome Biométrique
+  Contexte & Objectif
 Réalisation d'un système de contrôle d'accès biométrique autonome pour sécuriser une habitation. Ce projet de fin d'études démontre ma capacité à concevoir, développer et tester une solution électronique complète – de l'étude théorique au prototype fonctionnel.
 
 
