@@ -19,7 +19,7 @@ Sécurité : À l’intérieur de la maison, trois boutons permettent
 Une Alimentation de secours : une batterie de secours avec un relais 12v assure la continuité en cas de coupure de courant
 
  
-🛠️ Stack Technique
+ Stack Technique
 Microcontrôleur : Arduino Uno (ATmega328P)
 Capteur : AS608 (empreintes digitales)
 Affichage : Écran LCD I2C 16x2
@@ -27,7 +27,7 @@ Actionneurs : Relais 12V, gâche électrique, buzzer
 Logiciels : Arduino IDE, Proteus ISIS (simulation)
 Alimentation : Batterie Li-ion 11.1V, BMS, chargeur 12V
 
-📊 Résultats & Performance
+ Résultats & Performance
 Taux de reconnaissance : >95%
 Temps de réponse : <2 secondes
 Autonomie sur batterie : 1h26
@@ -37,7 +37,8 @@ Prototype entièrement fonctionnel testé et validé
 [Photo de réalisation](img/WhatsApp Image 2026-01-09 at 09.40.37.jpeg)
 
 
-💼 Expérience Professionnelle
+ Expérience Professionnelle
+ 
 Stagiaire en Maintenance Électrique – SIAB (Société Industrielle d'Acier du Bénin)
 *2022-2023 – Deux stages totalisant 4 mois*
 Maintenance préventive et corrective des armoires électriques industrielles
@@ -46,8 +47,9 @@ Câblage de moteurs et remplacement de composants (contacteurs, sectionneurs)
 Installation de systèmes électriques et de tableaux de commande
 Intervention sur groupes électrogènes (175 KVA à 750 KVA)
 
-🛠️ Compétences Techniques
-💻 Électronique & Programmation
+ Compétences Techniques
+ 
+ Électronique & Programmation
 Conception et simulation de circuits électroniques (Proteus ISIS)
 Programmation Arduino (C++) pour systèmes embarqués
 Intégration capteurs/actionneurs (biométrie, relais, afficheurs)
@@ -69,7 +71,9 @@ Sens des responsabilités et de la sécurité
 
  Formation
 Licence en Électrotechnique – ENSET de Lokossa (2022-2025)
+
 BAC F3 (Électrotechnique) – CEPT Saint Joseph, Ekpè (2021-2022)
+
 CAP en Électricité – CEPT Saint Joseph, Ekpè (2019-2021)
 
 
@@ -83,12 +87,12 @@ Mon ambition est d'appliquer mes compétences techniques à des projets concrets
 
 📍 Localisation : Cotonou, Bénin
 
-📧 Email : (gbodjemederoland@gmail.com)
+📧 Email : [gbodjemederoland@gmail.com]
 
-📞 Téléphone : 0153822668
+📞 Téléphone : [0153822668]
 
 🌐 Portfolio : https://roland1509200.github.io/-Syst-me-de-s-curit-/
 
-📁 GitHub : https://github.com/roland1509200
+📁 GitHub : [https://github.com/roland1509200]
 
 
