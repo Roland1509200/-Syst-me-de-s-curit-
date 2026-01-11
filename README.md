@@ -9,13 +9,14 @@ Je maîtrise la conception électronique, la programmation sur microcontrôleur 
   Contexte & Objectif
 Réalisation d'un système de contrôle d'accès biométrique autonome pour sécuriser une habitation. Ce projet de fin d'études démontre ma capacité à concevoir, développer et tester une solution électronique complète – de l'étude théorique au prototype fonctionnel.
 
-
-⚙️ Fonctionnalités Techniques
-Contrôle d'accès biométrique : Reconnaissance d'empreintes digitales via un capteur AS608 (stockage de 500 empreintes).
-Gestion des utilisateurs : Ajout/suppression d'empreintes via des boutons poussoirs dédiés.
-Signalisation intelligente : Affichage LCD des statuts + alarme sonore différenciée (accès autorisé/non autorisé).
-Autonomie énergétique : Alimentation de secours par batterie Li-ion avec BMS pour fonctionner lors des coupures.
-Commande de porte : Activation d'une gâche électrique via un relais 12V.
+Le système est un dispositif autonome de sécurité pour habitation, combinant :
+Contrôle d’accès : Lorsqu’un utilisateur pose son doigt sur le capteur, le système vérifie si l’empreinte est enregistrée. Si oui, la gâchette électrique s’ouvre, permettant l’accès, et l’écran LCD affiche “Accès autorisé” et une alarme sonne faiblement 
+Gestion des erreurs : Lorsqu’un utilisateur pose son doigt sur le capteur, le système vérifie si l’empreinte est enregistrée. Si non, une alarme se déclenche fortement et l’écran affiche “Accès non autorisé
+Sécurité : À l’intérieur de la maison, trois boutons permettent
+-	d’ouvrir la porte manuellement
+-	d’ajouter une nouvelle empreinte 
+-	de supprimer la dernière empreinte utilisée
+Une Alimentation de secours : une batterie de secours avec un relais 12v assure la continuité en cas de coupure de courant
 
 
 🛠️ Stack Technique
@@ -35,7 +36,7 @@ Prototype entièrement fonctionnel testé et validé
 
 
 💼 Expérience Professionnelle
-🔧 Stagiaire en Maintenance Électrique – SIAB (Société Industrielle d'Acier du Bénin)
+Stagiaire en Maintenance Électrique – SIAB (Société Industrielle d'Acier du Bénin)
 *2022-2023 – Deux stages totalisant 4 mois*
 Maintenance préventive et corrective des armoires électriques industrielles
 Dépannage de machines de production (postes à souder, ponts roulants, tréfileuses)
@@ -72,7 +73,7 @@ CAP en Électricité – CEPT Saint Joseph, Ekpè (2019-2021)
 🎯 Objectif Professionnel
 Je recherche activement une opportunité en CDD/CDI ou un stage de perfectionnement dans les domaines de :
 L'électrotechnique et la maintenance industrielle
-L'automatisme et les systèmes embarqués
+L'automatisme et les systèmes embarqués 
 La conception électronique et le prototypage
 Mon ambition est d'appliquer mes compétences techniques à des projets concrets tout en continuant à apprendre et à me spécialiser.
 
