@@ -18,7 +18,7 @@ Sécurité : À l’intérieur de la maison, trois boutons permettent
 -	de supprimer la dernière empreinte utilisée
 Une Alimentation de secours : une batterie de secours avec un relais 12v assure la continuité en cas de coupure de courant
 
-
+ 
 🛠️ Stack Technique
 Microcontrôleur : Arduino Uno (ATmega328P)
 Capteur : AS608 (empreintes digitales)
