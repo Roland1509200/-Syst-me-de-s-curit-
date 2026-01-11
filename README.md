@@ -35,6 +35,8 @@ Coût de réalisation : ~134 100 FCFA (prototype)
 Prototype entièrement fonctionnel testé et validé
 
 [Photo de réalisation](img/WhatsApp Image 2026-01-09 at 09.40.37.jpeg)
+
+
 💼 Expérience Professionnelle
 Stagiaire en Maintenance Électrique – SIAB (Société Industrielle d'Acier du Bénin)
 *2022-2023 – Deux stages totalisant 4 mois*
@@ -57,29 +59,32 @@ Lecture et réalisation de schémas électriques
 Câblage de tableaux de commande
 Dépannage de systèmes automatisés
 
-📋 Logiciels Maîtrisés
+Logiciels Maîtrisés
 Arduino IDE • TIA Portal (Siemens) • Proteus (ISIS) • Multisim • Suite Microsoft Office
 
-🌟 Atouts Personnels
+Atouts Personnels
 Rigueur et sens du détail • Capacité d'analyse et résolution de problèmes
 Autonomie et prise d'initiative • Adaptabilité en milieu industriel
 Sens des responsabilités et de la sécurité
 
-📚 Formation
+ Formation
 Licence en Électrotechnique – ENSET de Lokossa (2022-2025)
 BAC F3 (Électrotechnique) – CEPT Saint Joseph, Ekpè (2021-2022)
 CAP en Électricité – CEPT Saint Joseph, Ekpè (2019-2021)
 
-🎯 Objectif Professionnel
+
+ Objectif Professionnel
 Je recherche activement une opportunité en CDD/CDI ou un stage de perfectionnement dans les domaines de :
 L'électrotechnique et la maintenance industrielle
 L'automatisme et les systèmes embarqués 
 La conception électronique et le prototypage
 Mon ambition est d'appliquer mes compétences techniques à des projets concrets tout en continuant à apprendre et à me spécialiser.
 
-📞 Contact & Réseaux
+
 📍 Localisation : Cotonou, Bénin
-📧 Email : gbodjemederoland@gmail.com
+
+📧 Email : (gbodjemederoland@gmail.com)
+
 📞 Téléphone : 0153822668
 
 🌐 Portfolio : https://roland1509200.github.io/-Syst-me-de-s-curit-/
