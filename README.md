@@ -34,7 +34,7 @@ Autonomie sur batterie : 1h26
 Coût de réalisation : ~134 100 FCFA (prototype)
 Prototype entièrement fonctionnel testé et validé
 
-
+[Photo de réalisation](img/WhatsApp Image 2026-01-09 at 09.40.37.jpeg)
 💼 Expérience Professionnelle
 Stagiaire en Maintenance Électrique – SIAB (Société Industrielle d'Acier du Bénin)
 *2022-2023 – Deux stages totalisant 4 mois*
