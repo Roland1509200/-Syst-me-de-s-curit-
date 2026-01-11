@@ -87,12 +87,12 @@ Mon ambition est d'appliquer mes compétences techniques à des projets concrets
 
 📍 Localisation : Cotonou, Bénin
 
-📧 Email : [gbodjemederoland@gmail.com]
+📧 Email : gbodjemederoland@gmail.com
 
-📞 Téléphone : [0153822668]
+📞 Téléphone : 0153822668
 
 🌐 Portfolio : https://roland1509200.github.io/-Syst-me-de-s-curit-/
 
-📁 GitHub : [https://github.com/roland1509200]
+📁 GitHub : https://github.com/roland1509200
 
 
